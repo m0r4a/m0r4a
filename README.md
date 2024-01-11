@@ -15,6 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0r4a&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=ad24db&locale=en&layout=compact" alt="m0r4a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0r4a&show_icons=true&locale=en" alt="m0r4a" /></p>
-<br>
-<br>
-<p align="center"> <a href="https://www.fcfm.uanl.mx/" target="_blank" rel="noreferrer"> <img src="https://freesvg.org/img/Bison-Silhouette.png" alt="fcfm" width="40" height="40"/> </a></p>
+<p align="center"> <a href="https://www.fcfm.uanl.mx/" target="_blank" rel="noreferrer"> <img src="https://github.com/m0r4a/m0r4a/blob/main/Bison.png" alt="fcfm" width="300" height="300"/> </a></p>
