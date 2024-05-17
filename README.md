@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mora</h1>
 <h3 align="center">A Cybersec Student</h3>
 
-- 🔭 I’m currently working on [a customized ArchLinux install script](https://github.com/m0r4a/ArchLinux-Install-Script)
+- 🔭 I’m currently working on cleaning and finishing my GitHub repos
 - 🌱 I’m currently learning **Docker and Kubernetes**
-- 💬 Ask me about **Unix, Bash, and Python**
+- 💬 Ask me about **Linux, Bash, and Python**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
