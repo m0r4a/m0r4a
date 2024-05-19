@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0r4a&theme=aura" alt="m0r4a streak" style="width: 400px; margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0r4a&theme=aura](https://github-readme-streak-stats.herokuapp.com?user=m0r4a&theme=aura&date_format=M%20j%5B%2C%20Y%5D" alt="m0r4a streak" style="width: 400px; margin: 10px;"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m0r4a&show_icons=true&theme=aura" alt="m0r4a GitHub stats" style="width: 350px; margin: 10px;"/>
