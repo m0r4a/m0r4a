@@ -33,11 +33,6 @@
   </a>
 </p>
 
---- 
-<p align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b277bed9896b3d1430516b?variant=dark&roadmaps=python%2Cdevops" alt="roadmap.sh"/></a>
-</p>
-
 ---
 
 <p align="center">
@@ -47,3 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0r4a&layout=compact&theme=aura" alt="m0r4a most used languages" style="width: 300px; margin: 10px;"/>
 </p>
 
+--- 
+<p align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b277bed9896b3d1430516b?variant=dark&roadmaps=python%2Cdevops" alt="roadmap.sh"/></a>
+</p>
