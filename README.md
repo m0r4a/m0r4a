@@ -33,22 +33,17 @@
   </a>
 </p>
 
+--- 
+<p align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b277bed9896b3d1430516b?variant=dark&roadmaps=python%2Cdevops" alt="roadmap.sh"/></a>
+</p>
+
 ---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0r4a&theme=aura](https://github-readme-streak-stats.herokuapp.com?user=m0r4a&theme=aura&date_format=M%20j%5B%2C%20Y%5D" alt="m0r4a streak" style="width: 400px; margin: 10px;"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0r4a&show_icons=true&theme=aura" alt="m0r4a GitHub stats" style="width: 350px; margin: 10px;"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0r4a&layout=compact&theme=aura" alt="m0r4a most used languages" style="width: 300px; margin: 10px;"/>
-</p>
-
---- 
-<p align="center"> 
-  <a href="https://www.fcfm.uanl.mx/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/m0r4a/m0r4a/blob/main/Bison.png" alt="fcfm" width="300" height="300"/> 
-  </a>
 </p>
 
