@@ -44,5 +44,7 @@
 
 --- 
 <p align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b277bed9896b3d1430516b?variant=dark&roadmaps=python%2Cdevops" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b277bed9896b3d1430516b?variant=dark" alt="roadmap.sh"/></a>
 </p>
+
+
